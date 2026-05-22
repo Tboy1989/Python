@@ -1311,6 +1311,7 @@
   * [Tim Sort](sorts/tim_sort.py)
   * [Topological Sort](sorts/topological_sort.py)
   * [Tree Sort](sorts/tree_sort.py)
+  * [Troydj Sort](sorts/troydj_sort.py)
   * [Unknown Sort](sorts/unknown_sort.py)
   * [Wiggle Sort](sorts/wiggle_sort.py)
 
